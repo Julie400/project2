@@ -1,0 +1,1 @@
+print("Everything about Tanzania is beautiful")
